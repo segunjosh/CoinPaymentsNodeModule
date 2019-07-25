@@ -480,7 +480,7 @@ Example Response from server:
     "coin_status": "online"
   }
 }
-```
+
 
 - `balance` - The coin balance as an integer (in Satoshis).
 - `balancef` - The coin balance as a floating point number.
