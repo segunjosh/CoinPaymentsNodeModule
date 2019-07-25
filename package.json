@@ -135,5 +135,7 @@
     "prettier": "^1.18.2",
     "sinon": "^7.3.2"
   },
-  "dependencies": {}
+  "dependencies": {
+    "hoek": "^6.1.3"
+  }
 }
